@@ -1,0 +1,6 @@
+model_checkpoint_path: "HSDPA_nn_model_ep_120000.ckpt"
+all_model_checkpoint_paths: "HSDPA_nn_model_ep_119600.ckpt"
+all_model_checkpoint_paths: "HSDPA_nn_model_ep_119700.ckpt"
+all_model_checkpoint_paths: "HSDPA_nn_model_ep_119800.ckpt"
+all_model_checkpoint_paths: "HSDPA_nn_model_ep_119900.ckpt"
+all_model_checkpoint_paths: "HSDPA_nn_model_ep_120000.ckpt"
